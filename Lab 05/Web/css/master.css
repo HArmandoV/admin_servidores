@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(143, 2, 2);
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+  margin-bottom: center;
+}
+
+.clock {
+  font-size: 40px;
+  text-align: center;
+}
+
+form {
+  text-align: center;
+  background-color: rgb(209, 206, 206);
+  width: 330px;
+  border: 15px solid rgb(0, 128, 128);
+  padding: 25px;
+  margin: 25px;
+  align-content: center;
+}
